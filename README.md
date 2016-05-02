@@ -1,5 +1,4 @@
-Dashing is a ruby framework that lets you build beautiful dashboards. Check out a demo over here. 
-Dashing works with widgets. 
+Dashing is a ruby framework that lets you build beautiful dashboards. Dashing works with widgets. 
 
 **Anatomy of a widget**
 an HTML file used for layout and bindings
