@@ -3,7 +3,7 @@ require 'httparty'
 
 configure do
   set :auth_token, 'tk'
-  set :default_dashboard, 'flipdash'
+  set :default_dashboard, 'sample'
   set :protection, :except => :frame_options
 
   helpers do
